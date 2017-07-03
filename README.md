@@ -1,4 +1,4 @@
-# image-downloader
+# image-url-parser
 Download image from remote host
 
 
@@ -11,13 +11,13 @@ The preferred way to install this extension is through [Composer](http://getcomp
 Either run
 
 ```
-php composer.phar require dikiy-roman/imagedownloader "1.0.0.x-dev"
+php composer.phar require dikiy-roman/image-url-parser "1.0.0.x-dev"
 ```
 
 or add
 
 ```
-"dikiypac/imagedownloader": "1.0.0.x-dev"
+"dikiy-roman/image-url-parser": "1.0.0.x-dev"
 ```
 
 to the require section of your ```composer.json```
@@ -32,4 +32,4 @@ to the require section of your ```composer.json```
 
 ## Author
 
-[Dikiy Roman](https://github.com/dikiy-roman/), e-mail: [mr.dukuy@gmail.com](mailto:mr.dikiy@gmail.com)
+[Dykyi Roman](https://github.com/dikiy-roman/), e-mail: [mr.dukuy@gmail.com](mailto:mr.dukuy@gmail.com)
