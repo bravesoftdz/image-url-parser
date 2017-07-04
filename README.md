@@ -11,13 +11,13 @@ The preferred way to install this extension is through [Composer](http://getcomp
 Either run
 
 ```
-php composer.phar require dikiy-roman/image-url-parser "1.0.0.x-dev"
+php composer.phar require dikiy-roman/image-url-parser "dev-master"
 ```
 
 or add
 
 ```
-"dikiy-roman/image-url-parser": "1.0.0.x-dev"
+"dikiy-roman/image-url-parser": "dev-master"
 ```
 
 to the require section of your ```composer.json```
